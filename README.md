@@ -68,3 +68,19 @@ SimpleBeego
     }
 }
 ```
+访问http://localhost:8080/v1/object
+可以看到
+```
+{
+    "hjkhsbnmn123": {
+        "ObjectId": "hjkhsbnmn123",
+        "Score": 100,
+        "PlayerName": "astaxie"
+    },
+    "mjjkxsxsaa23": {
+        "ObjectId": "mjjkxsxsaa23",
+        "Score": 101,
+        "PlayerName": "someone"
+    }
+}
+```
