@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"SimpleBeego/SimpleBeego/models"
+	"SimpleBeego/models"
 	"encoding/json"
 
 	"github.com/astaxie/beego"
